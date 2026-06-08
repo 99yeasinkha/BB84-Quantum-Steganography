@@ -39,8 +39,8 @@ The system integrates Quantum Key Distribution (QKD) with multimedia steganograp
 Manuscript under preparation for journal/conference submission.
 
 ## Author
-Yeasin Kha
-Electrical and Electronic Engineering
+Yeasin Kha,
+Electrical and Electronic Engineering,
 North South University
 
 
