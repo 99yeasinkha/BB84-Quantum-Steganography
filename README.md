@@ -43,6 +43,5 @@ Yeasin Kha
 Electrical and Electronic Engineering
 North South University
 
-Yeasin Khan
-Electrical and Electronic Engineering
-North South University
+
+
